@@ -12,7 +12,7 @@ As an exercise, this demos using the video overlay Window as a huge pseudo-sprit
 * Background layer: All pixels set to color zero.
 
 
-![Game Boy video overlay window Giant Sprite demo - nyancat cassette](https://raw.githubusercontent.com/bbbbbr/plutoscorner/release/info/screenshot_anim.gif)
+![Game Boy video overlay window Giant Sprite demo - nyancat cassette](https://raw.githubusercontent.com/bbbbbr/gb-window-as-sprite/release/info/screenshot_anim.gif)
 
 Built with GBDK - http://gbdk.sourceforge.net/
 
